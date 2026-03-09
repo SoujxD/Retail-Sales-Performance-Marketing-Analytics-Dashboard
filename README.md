@@ -1,62 +1,68 @@
+
 # Retail Sales Performance & Marketing Analytics Dashboard
 
 ## Project Overview
 
-This project analyzes retail store performance, marketing impact, and regional revenue trends using an interactive Tableau dashboard. The goal was to transform raw retail sales data into actionable insights that help business stakeholders understand store performance, marketing ROI, and regional growth patterns.
+This project analyzes retail store performance, marketing impact, and regional revenue trends using an interactive Tableau dashboard. The goal was to transform raw retail sales data into actionable insights that help stakeholders understand store performance, marketing ROI, and regional growth patterns.
 
-The dashboard enables quick identification of top-performing stores, revenue trends over time, and how marketing spend influences monthly revenue.
+---
+
+## Dashboard Preview
+
+![Retail Sales Dashboard](Screenshot 2026-03-08 171551.png)
+
+The dashboard provides insights into:
+
+* Top and bottom performing stores
+* Marketing spend vs revenue relationship
+* Monthly revenue trends
+* Regional revenue performance
+* Revenue distribution across store types
 
 ---
 
 ## Key Insights
 
-* Identified **Top 5 and Bottom 5 performing retail stores** based on monthly revenue.
-* Found a **positive correlation between marketing spend ($60K–$85K) and revenue ($580K–$650K)**.
-* Observed **regional revenue differences**, with some regions outperforming others by nearly **10–12%**.
-* Analyzed **store type performance (Flagship, Mall-Based, Neighborhood)** using distribution analysis.
-* Evaluated **promotion impact on revenue across store segments**.
+* Identified **Top 5 and Bottom 5 performing stores** based on monthly revenue.
+* Observed a **positive relationship between marketing spend ($60K–$85K) and revenue ($580K–$650K)**.
+* Detected **regional revenue differences up to ~10–12%**.
+* Compared performance across **Flagship, Mall-Based, and Neighborhood stores**.
+* Evaluated **promotion impact on store revenue**.
 
 ---
 
 ## Dashboard Components
 
-### 1. Store Performance
+### Store Performance
 
 * Top 5 Stores by Monthly Revenue
 * Bottom 5 Stores by Monthly Revenue
 
-### 2. Marketing Impact Analysis
+### Marketing Impact
 
-* Scatter plot showing **Marketing Spend vs Monthly Revenue**
-* Trend line showing relationship between marketing investment and sales
+Scatter plot showing correlation between **Marketing Spend and Monthly Revenue**.
 
-### 3. Store Revenue Trend
+### Store Revenue Trend
 
-* Monthly revenue trend analysis across the year
-* Identification of seasonal fluctuations in sales
+Line chart showing **monthly sales performance across the year**.
 
-### 4. Regional Performance
+### Regional Trends
 
-* Multi-line visualization comparing **revenue across regions**
-* Helps identify geographic performance differences
+Comparison of **monthly revenue across different regions**.
 
-### 5. Revenue by Store Traits
+### Revenue by Store Traits
 
-* Box plot comparing revenue distribution across:
-
-  * Flagship stores
-  * Mall-based stores
-  * Neighborhood stores
+Boxplot analysis comparing performance of different **store formats**.
 
 ---
 
 ## Tools & Technologies
 
-* **Tableau**
-* **Data Visualization**
-* **Retail Analytics**
-* **Business Intelligence**
-* **Exploratory Data Analysis**
+* Tableau
+* Data Visualization
+* Business Intelligence
+* Retail Analytics
+* Exploratory Data Analysis
 
 ---
 
@@ -64,37 +70,13 @@ The dashboard enables quick identification of top-performing stores, revenue tre
 
 * Data Visualization
 * Dashboard Design
-* Marketing Analytics
-* Retail Performance Analysis
-* Business Intelligence
 * Data Storytelling
-
----
-
-
-
-## Use Cases
-
-This dashboard can help:
-
-* Retail managers track store performance
-* Marketing teams evaluate marketing ROI
-* Executives identify growth opportunities
-* Analysts explore regional sales trends
-
----
-
-## Future Improvements
-
-* Add predictive sales forecasting
-* Integrate SQL data pipelines
-* Deploy interactive dashboard on Tableau Public
-* Include customer segmentation analysis
+* Marketing Analytics
+* Business Intelligence
 
 ---
 
 ## Author
 
-**Soujanya Chavan**
-
-MS in Data Science | Data Analyst | Machine Learning Enthusiast
+Soujanya Chavan
+MS Data Science | Data Analyst
