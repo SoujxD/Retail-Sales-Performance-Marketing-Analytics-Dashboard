@@ -9,7 +9,7 @@ This project analyzes retail store performance, marketing impact, and regional r
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](Screenshot 2026-03-08 171551.png)
+![Retail Sales Dashboard](Screenshot%202026-03-08%20171551.png)
 
 The dashboard provides insights into:
 
